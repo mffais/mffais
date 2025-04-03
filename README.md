@@ -1,55 +1,55 @@
-# Kevin Traster
-
-Founder, CloudCraft Solutions  
-FP&A Strategy Consultant | AI-Focused Financial Systems Advisor | FPAC-Certified | MBA (Data Analytics)
-
----
-
-## About Me
-
-I help finance leaders modernize their FP&A processes through practical automation, AI-driven forecasting, and better decision-making systems.
-
-Through CloudCraft Solutions, I combine deep financial expertise with technical know-how—bringing together AI tools, cloud-based automation, and real-world strategy. I’ve worked as a VP in operational strategy, led multi-million-dollar finance initiatives, and built internal reporting systems that scale.
-
-My mission is simple: help finance teams do more with less by bridging technology and financial insight.
+# Kevin Traster  
+**Founder, CloudCraft Solutions**  
+AI Strategy Advisor | FP&A Technologist | Certified FPAC | MBA (Data Analytics)
 
 ---
 
-## What I Specialize In
+### 🧠 About Me
 
-- Strategic FP&A consulting with AI integration  
-- Forecasting and scenario planning automation  
-- GPT-based tools for reporting and variance analysis  
-- Excel + Python + Power BI workflows (no dashboards required)  
-- Internal tool development and system design for finance teams  
-- Cloud architecture and automation with AWS
+I help finance leaders make sense of the rapidly evolving AI landscape. Through CloudCraft Solutions, I evaluate, test, and implement AI tools built for FP&A—so finance teams can modernize without wasting time or getting burned by hype.
+
+I bring a unique blend of financial leadership and technical depth, with experience as a VP in operational strategy, developer of cloud-based tools, and builder of scalable reporting systems. My mission is simple: **help finance teams do more with less by using the right AI, not the flashiest.**
 
 ---
 
-## Credentials
+### 🔍 What I Focus On
+
+- Curating and validating GPT-based tools for forecasting, analysis, and reporting  
+- Helping FP&A teams translate AI into practical workflows  
+- Strategic AI tool selection and onboarding  
+- Excel + Python + SQL systems integration (no dashboards required)  
+- Financial system automation and cloud architecture with AWS  
+
+---
+
+### 🧾 Credentials
 
 - FPAC – Certified Corporate FP&A Professional (AFP)  
-- MBA, Specialization in Data Analytics & Business Strategy  
-- AWS Certified Cloud & AI Practitioner  
-- Master of Project Management (MPM) – Data-Driven Project Focus  
-- Member – AFP, INFORMS, and Association of Data Scientists (ADaSci)
+- MBA – Specialization in Data Analytics & Strategy  
+- AWS Certified AI & Cloud Practitioner  
+- Member – AFP, ADaSci, INFORMS  
+- MPM – Master of Project Management (data-driven focus)
 
 ---
 
-## Currently Building
+### 🛠 Currently Building & Testing
 
-- AI-powered forecasting templates for SMB finance teams  
-- GPT-driven financial commentary tools  
-- Custom financial systems to eliminate repetitive reporting work  
-
-I believe in clear logic, clean systems, and tools that deliver insight—not noise.
+- GPT-enhanced reporting commentary templates  
+- Forecasting toolkits that plug into existing finance workflows  
+- AI productivity tools specifically validated for FP&A use cases  
 
 ---
 
-## Contact
+### 🧩 Beliefs
 
-CloudCraft Solutions LLC  
+I believe finance teams don’t need more dashboards—they need clarity, insight, and tools that reduce manual work without creating complexity. My job is to test what’s out there and help you adopt what actually works.
+
+---
+
+### 📬 Contact
+
+**CloudCraft Solutions LLC**  
 West Jordan, UT  
-[cloudcraft-solutions-llc.com](https://www.cloudcraft-solutions-llc.com)  
-hello@cloudcraft-solutions-llc.com  
-(866) 856-0093
+[cloudcraft-solutions-llc.com](https://cloudcraft-solutions-llc.com)  
+📧 hello@cloudcraft-solutions-llc.com  
+📞 (866) 856-0093
