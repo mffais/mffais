@@ -1,48 +1,41 @@
 # Kevin Traster  
 **Founder, CloudCraft Solutions**  
-AI Strategy Advisor | FP&A Technologist | Certified FPAC | MBA (Data Analytics)
+AWS Solutions Architect | Legacy Systems Modernization | Infrastructure Automation
 
 ---
 
 ### 🧠 About Me
 
-I help finance leaders make sense of the rapidly evolving AI landscape. Through CloudCraft Solutions, I evaluate, test, and implement AI tools built for FP&A—so finance teams can modernize without wasting time or getting burned by hype.
-
-I bring a unique blend of financial leadership and technical depth, with experience as a VP in operational strategy, developer of cloud-based tools, and builder of scalable reporting systems. My mission is simple: **help finance teams do more with less by using the right AI, not the flashiest.**
+I specialize in helping companies modernize outdated infrastructure and move critical systems to AWS. Through CloudCraft Solutions, I support operational teams by designing secure, scalable cloud environments that replace fragile scripts and aging servers—without disrupting day-to-day business.
 
 ---
 
-### 🔍 What I Focus On
+### 🔍 What I Do
 
-- Curating and validating GPT-based tools for forecasting, analysis, and reporting  
-- Helping FP&A teams translate AI into practical workflows  
-- Strategic AI tool selection and onboarding  
-- Excel + Python + SQL systems integration (no dashboards required)  
-- Financial system automation and cloud architecture with AWS  
+- **Legacy System Modernization**  
+  Refactor or containerize EC2-hosted apps, wrap cron jobs and scripts into durable cloud-native services  
 
----
+- **AWS Architecture & Migration**  
+  Design and build cost-effective environments using EC2, Lambda, RDS, and VPC  
 
-### 🧾 Credentials
+- **Infrastructure Automation**  
+  Automate deployment and system monitoring using CloudWatch, IAM, and CloudFormation  
 
-- FPAC – Certified Corporate FP&A Professional (AFP)  
-- MBA – Specialization in Data Analytics & Strategy  
-- AWS Certified AI & Cloud Practitioner  
-- Member – AFP, ADaSci, INFORMS  
-- MPM – Master of Project Management (data-driven focus)
+- **Integration & Uptime Focus**  
+  Connect legacy tools and AWS environments reliably—EDI, SQL, pick systems, and custom internal apps  
 
 ---
 
-### 🛠 Currently Building & Testing
+### 🧾 AWS Skills & Certifications
 
-- GPT-enhanced reporting commentary templates  
-- Forecasting toolkits that plug into existing finance workflows  
-- AI productivity tools specifically validated for FP&A use cases  
+- **AWS Certified Solutions Architect – Associate**  
+- **AWS Certified Cloud Practitioner**
 
----
-
-### 🧩 Beliefs
-
-I believe finance teams don’t need more dashboards—they need clarity, insight, and tools that reduce manual work without creating complexity. My job is to test what’s out there and help you adopt what actually works.
+Hands-on expertise with:  
+- EC2, RDS, S3, Lambda  
+- VPC, CloudWatch, IAM  
+- CloudFormation, Glue, Route 53  
+- Custom automation and legacy integration on AWS
 
 ---
 
@@ -50,6 +43,6 @@ I believe finance teams don’t need more dashboards—they need clarity, insigh
 
 **CloudCraft Solutions LLC**  
 West Jordan, UT  
-[cloudcraft-solutions-llc.com](https://cloudcraft-solutions-llc.com)  
+🌐 [cloudcraft-solutions-llc.com](https://cloudcraft-solutions-llc.com)  
 📧 hello@cloudcraft-solutions-llc.com  
 📞 (866) 856-0093
