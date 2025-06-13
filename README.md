@@ -1,41 +1,39 @@
 # Kevin Traster  
 **Founder, CloudCraft Solutions**  
-AWS Solutions Architect | Legacy Systems Modernization | Infrastructure Automation
+AWS Architecture Support for MSPs & Infra Teams | Legacy Modernization | Infrastructure That Works
 
 ---
 
-### 🧠 About Me
+### 👋 About
 
-I specialize in helping companies modernize outdated infrastructure and move critical systems to AWS. Through CloudCraft Solutions, I support operational teams by designing secure, scalable cloud environments that replace fragile scripts and aging servers—without disrupting day-to-day business.
+I partner with **MSPs, DevOps teams, and internal infrastructure groups** to deliver clean, reliable AWS architecture—on demand, without adding staffing overhead or delivery bottlenecks.
+
+Through **CloudCraft Solutions**, I support your technical team behind the scenes with infrastructure design, migration planning, and architecture reviews—so you can stay focused on client delivery, not AWS edge cases.
 
 ---
 
-### 🔍 What I Do
+### 🧱 What I Do
 
-- **Legacy System Modernization**  
-  Refactor or containerize EC2-hosted apps, wrap cron jobs and scripts into durable cloud-native services  
+- **AWS Infrastructure Design & Reviews**  
+  Scalable, secure architecture using EC2, Lambda, RDS, S3, VPC, and IAM
 
-- **AWS Architecture & Migration**  
-  Design and build cost-effective environments using EC2, Lambda, RDS, and VPC  
+- **Legacy Modernization & Migration Planning**  
+  Transition brittle, script-based systems to maintainable AWS-native designs
 
-- **Infrastructure Automation**  
-  Automate deployment and system monitoring using CloudWatch, IAM, and CloudFormation  
+- **Architecture Audits & Cost Optimization**  
+  Identify risk, waste, and technical debt—then hand off clear next steps
 
-- **Integration & Uptime Focus**  
-  Connect legacy tools and AWS environments reliably—EDI, SQL, pick systems, and custom internal apps  
+- **Flexible Project Support**  
+  Drop in as needed for deep technical guidance with minimal coordination overhead
 
 ---
 
 ### 🧾 AWS Skills & Certifications
 
-- **AWS Certified Solutions Architect – Associate**  
-- **AWS Certified Cloud Practitioner**
+- **AWS Certified Solutions Architect 
 
-Hands-on expertise with:  
-- EC2, RDS, S3, Lambda  
-- VPC, CloudWatch, IAM  
-- CloudFormation, Glue, Route 53  
-- Custom automation and legacy integration on AWS
+Hands-on with:  
+EC2 · RDS · Lambda · IAM · S3 · VPC · CloudFormation · CloudWatch · Route 53 · ERP & EDI integrations
 
 ---
 
