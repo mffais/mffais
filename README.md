@@ -23,7 +23,7 @@ Certified Corporate FP&A Professional
 At CloudCraft Solutions, I focus on architecture, automation, and modernization within AWS — building systems that stay secure, efficient, and easy to support.
 
 Contact:
-LinkedIn: https://www.linkedin.com/in/kevintraster  
+LinkedIn: https://www.linkedin.com/in/kevin-traster  
 Website: https://www.cloudcraft-solutions-llc.com  
 Email: hello@cloudcraft-solutions-llc.com
 
