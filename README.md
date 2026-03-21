@@ -1,30 +1,33 @@
-# AWS Architecture & Engineering
+# AWS AI Solutions Architecture
 
-I work on AWS architecture and engineering with a focus on **production systems** — from initial design through build, deployment, and long-term operation.
+Focused on designing scalable, production-grade AWS systems with an emphasis on **GenAI, data platforms, and cost-efficient architecture**.
 
-My work typically involves:
-- Designing AWS architectures for real workloads
-- Modernizing legacy and hybrid environments
-- Infrastructure automation (IaC)
-- Data pipelines and system integration
-- Reliability, observability, and operational hygiene
+Work centers on system design and architecture across the full lifecycle — from initial design through integration, deployment, and long-term optimization.
 
-This GitHub contains:
-- Reference architectures and patterns
-- Infrastructure and automation examples
-- Supporting tools and experiments related to AWS services
+## Core areas
+- GenAI architectures (RAG, Bedrock, orchestration patterns)
+- Data platforms and pipelines for analytics and AI-driven use cases
+- AWS system design for scalable, multi-environment workloads
+- Integration across services and external systems
+- Cost optimization and FinOps-driven architecture
+- Reliability, observability, and operational standards
 
-The emphasis is on **practical, production-oriented solutions**, not demos or tutorials.
+## This repository includes
+- Architecture patterns and reference designs
+- Examples of AWS system integrations
+- Supporting tools and experiments related to AWS services and AI use cases
 
----
-
-### Areas of focus
-- AWS (EC2, RDS, S3, IAM, CloudWatch, Lambda, EventBridge)
-- Infrastructure as Code
-- System design and modernization
-- Data integration and operational tooling
+The emphasis is on **practical, production-oriented systems**, not demos or tutorials.
 
 ---
 
-> This profile reflects hands-on engineering and architecture work.  
+### AWS focus
+- Amazon Bedrock, SageMaker
+- S3, RDS (PostgreSQL), Glue, Athena
+- EventBridge, Lambda (event-driven patterns)
+- IAM, CloudWatch, CloudFormation
+
+---
+
+> This profile reflects architecture-led work with hands-on depth where needed.  
 > Not all repositories are production-ready or complete.
