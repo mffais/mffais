@@ -36,7 +36,6 @@ security probe and still produce a plausible-but-wrong number, apply the wrong
 effective date, or misstate a business rule. The testing here covers the
 business and finance *logic*, not only the security surface — and probes the way
 real domain users phrase things.
-phrase things.
 
 ## Tooling
 
