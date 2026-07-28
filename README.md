@@ -1,35 +1,32 @@
-# AWS GenAI Architect
+# Cash Horizon: finance software, built by an operator
 
-Builds LLM and RAG systems on AWS — and makes sure they don't bankrupt the teams running them.
+Cash flow forecasting and tracking that runs in your own AWS account. I'm a finance operator with 15 years owning a P&L who builds the software, not just advises on it.
 
-> Most GenAI systems get architected for "does it work," then bleed money in production. The skill to build the system and the skill to make it cost-efficient usually live in different people. Here they're in one.
+> Most cash forecasting lives in a fragile spreadsheet. I build the system a finance team can actually trust: deterministic, transparent, and deployed where your data never leaves your control.
 
-## Focus
+## What I build
 
-**GenAI architecture** — LLM/RAG applications on AWS: Amazon Bedrock, model selection, RAG pipelines, serverless backends, multi-account infrastructure, and the production patterns that hold up under real load.
-
-**Cost & token-efficiency optimization** — the specialty. Right-sizing model choice to the task, context and token economics, prompt caching, batch vs. real-time, retrieval cost, embedding strategy, and model routing — cutting spend without giving up quality.
+**Cash Horizon** - cash flow forecasting and tracking software. Deterministic and finance-grade, deployed per customer in their own AWS account, with tenant isolation and least-privilege built in.
 
 ## Built, not just advised
 
 Production AWS systems designed and operated end to end:
-- Bedrock-backed GenAI and RAG pipelines
-- Serverless on Lambda / API Gateway / DynamoDB / Aurora
-- Multi-account CDK infrastructure
+
+- Serverless finance application on Lambda, API Gateway, and Aurora
+- Multi-account, per-customer isolated deployment: one instance per customer, data never co-mingled
+- The production engineering that separates a demo from a system: least-privilege IAM with permissions boundaries, in-VPC data provisioning, OIDC-based CI/CD, and idempotent migration pipelines
 - A large-scale ingestion pipeline processing SEC EDGAR XBRL filings across thousands of public companies
-- The production engineering that separates a demo from a system — cache isolation, rate limiting, promotion workflows
 
 ## AWS stack
 
-- **GenAI / AI:** Amazon Bedrock, SageMaker, RAG, prompt & context optimization
 - **Compute / serverless:** Lambda, API Gateway, EventBridge
-- **Data:** DynamoDB, Aurora (PostgreSQL), S3, Glue, Athena
-- **Infra / platform:** CDK / CloudFormation, multi-account, IAM, CloudWatch, CloudFront
+- **Data:** Aurora (PostgreSQL), RDS Proxy, S3
+- **Infra / platform:** Terraform, multi-account, IAM and permissions boundaries, CloudFront, CodeBuild
 
 ## Certifications
 
-Holds every active AWS certification at once — the complete current stack, known as the "Golden Jacket." An estimated few hundred people worldwide reach that level.
+Golden Jacket: every active AWS certification at once, the complete current stack. An estimated few hundred people worldwide hold it.
 
 ---
 
-*Repos here reflect production-oriented AWS and GenAI work — not all are public or complete.*
+*A finance operator who builds. Repos here reflect production-oriented finance and AWS work; not all are public or complete.*
