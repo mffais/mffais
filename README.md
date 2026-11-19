@@ -1,20 +1,21 @@
-# Cash Horizon: finance software, built by an operator
+# Red-teaming AI agents that take real actions
 
-Cash flow forecasting and tracking, delivered as a hosted SaaS. I'm a finance operator with 15 years owning a P&L who builds the software, not just advises on it.
+I red-team AI agents that call tools, read untrusted content, and act on data with real permissions. The question isn't what the model says. It's what the agent does.
 
-> Most cash forecasting lives in a fragile spreadsheet. I build the system a finance team can actually trust: deterministic, transparent, and secure, with each customer's data encrypted and isolated to its own account.
-## What I build
+## What I'm building
 
-**Cash Horizon** - cash flow forecasting and tracking software. Deterministic and finance-grade, delivered as a hosted multi-tenant SaaS, with hard per-account isolation and least-privilege built in.
+A test harness for agent attacks, scored on actions, not answers: each case passes or fails on whether a forbidden tool call happened.
 
-## Built, not just advised
+- Indirect prompt injection through documents, web pages, emails, and tool outputs
+- Tool poisoning and malicious MCP servers
+- Data exfiltration through tool calls
+- Excessive agency: agents doing more than they should with the access they're given
 
-Production AWS systems designed and operated end to end:
+## Background
 
-- Serverless finance application on Lambda, API Gateway, and Aurora
-- Multi-tenant hosted platform with hard per-account isolation: each customer gets its own database, role, and encryption key on shared infrastructure, so data is never co-mingled
-- The production engineering that separates a demo from a system: least-privilege IAM with permissions boundaries, in-VPC data provisioning, OIDC-based CI/CD, and idempotent migration pipelines
-- A large-scale ingestion pipeline processing SEC EDGAR XBRL filings across thousands of public companies
+- **15 years as VP of IT, hands-on:** on-site to cloud migration, ERP migrations, API services, custom ordering, warehouse, and payment systems, disaster recovery, patching, penetration testing, and threat response
+- **Production AWS systems, built and operated end to end:** serverless backends on Lambda, API Gateway, and Aurora; multi-tenant isolation with a separate database, role, and encryption key per account; least-privilege IAM with permissions boundaries; OIDC-based CI/CD; an ingestion pipeline for SEC EDGAR XBRL filings across thousands of public companies
+- **Multi-agent development:** I build my own software with a team of AI agents for orchestration, development, and independent QA
 
 ## AWS stack
 
@@ -24,8 +25,8 @@ Production AWS systems designed and operated end to end:
 
 ## Certifications
 
-Golden Jacket: every active AWS certification at once, the complete current stack. An estimated few hundred people worldwide hold it.
+Golden Jacket: every active AWS certification at once, including Security Specialty. An estimated few hundred people worldwide hold it.
 
 ---
 
-*A finance operator who builds. Repos here reflect production-oriented finance and AWS work; not all are public or complete.*
+*Trust what you've tested. Not what the model promises.*
